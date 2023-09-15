@@ -1,4 +1,4 @@
-# Go-reloaded
+# Text editor
 ## 1. Aim of the project
 The aim of this project is to read text from an input file and to modify it according to the requirements and after that write the modified text into a new file.
 ## 2. List of modifications
